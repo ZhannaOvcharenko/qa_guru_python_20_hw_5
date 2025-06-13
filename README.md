@@ -1,1 +1,1 @@
-# qa_guru_python_20_hw_5
+Автотест на заполнение и отправку формы https://demoqa.com/automation-practice-form
